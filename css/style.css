@@ -1,0 +1,35 @@
+body{
+    padding:0px;
+    margin:0px;
+    background-color: aliceblue;
+}
+.content{
+
+}
+.submitform{
+    display: block;
+
+}
+#title{
+    top:10px;
+    margin-bottom:10px;
+    border:0px;
+    padding:7px;
+    position: relative;
+    background-color: rgb(127, 186, 238);
+    color:white;
+    border-radius: 3px;
+
+}
+.keys{
+    margin:3px;
+}
+.submitform form input[type="submit"]{
+    margin-top:10px;
+    border:0px;
+    padding:7px;
+    position: relative;
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+}
